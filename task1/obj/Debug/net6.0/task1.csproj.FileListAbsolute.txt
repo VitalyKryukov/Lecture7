@@ -1,0 +1,15 @@
+G:\GeekBrains\1_Учебный процесс\1 четверть\7_Знакомство с языками программирования (лекции)\Lecture7\task1\obj\Debug\net6.0\task1.csproj.AssemblyReference.cache
+G:\GeekBrains\1_Учебный процесс\1 четверть\7_Знакомство с языками программирования (лекции)\Lecture7\task1\obj\Debug\net6.0\task1.GeneratedMSBuildEditorConfig.editorconfig
+G:\GeekBrains\1_Учебный процесс\1 четверть\7_Знакомство с языками программирования (лекции)\Lecture7\task1\obj\Debug\net6.0\task1.AssemblyInfoInputs.cache
+G:\GeekBrains\1_Учебный процесс\1 четверть\7_Знакомство с языками программирования (лекции)\Lecture7\task1\obj\Debug\net6.0\task1.AssemblyInfo.cs
+G:\GeekBrains\1_Учебный процесс\1 четверть\7_Знакомство с языками программирования (лекции)\Lecture7\task1\obj\Debug\net6.0\task1.csproj.CoreCompileInputs.cache
+G:\GeekBrains\1_Учебный процесс\1 четверть\7_Знакомство с языками программирования (лекции)\Lecture7\task1\bin\Debug\net6.0\task1.exe
+G:\GeekBrains\1_Учебный процесс\1 четверть\7_Знакомство с языками программирования (лекции)\Lecture7\task1\bin\Debug\net6.0\task1.deps.json
+G:\GeekBrains\1_Учебный процесс\1 четверть\7_Знакомство с языками программирования (лекции)\Lecture7\task1\bin\Debug\net6.0\task1.runtimeconfig.json
+G:\GeekBrains\1_Учебный процесс\1 четверть\7_Знакомство с языками программирования (лекции)\Lecture7\task1\bin\Debug\net6.0\task1.dll
+G:\GeekBrains\1_Учебный процесс\1 четверть\7_Знакомство с языками программирования (лекции)\Lecture7\task1\bin\Debug\net6.0\task1.pdb
+G:\GeekBrains\1_Учебный процесс\1 четверть\7_Знакомство с языками программирования (лекции)\Lecture7\task1\obj\Debug\net6.0\task1.dll
+G:\GeekBrains\1_Учебный процесс\1 четверть\7_Знакомство с языками программирования (лекции)\Lecture7\task1\obj\Debug\net6.0\refint\task1.dll
+G:\GeekBrains\1_Учебный процесс\1 четверть\7_Знакомство с языками программирования (лекции)\Lecture7\task1\obj\Debug\net6.0\task1.pdb
+G:\GeekBrains\1_Учебный процесс\1 четверть\7_Знакомство с языками программирования (лекции)\Lecture7\task1\obj\Debug\net6.0\task1.genruntimeconfig.cache
+G:\GeekBrains\1_Учебный процесс\1 четверть\7_Знакомство с языками программирования (лекции)\Lecture7\task1\obj\Debug\net6.0\ref\task1.dll
